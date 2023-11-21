@@ -1,0 +1,3 @@
+- Para poder ejecutar el servidor frontend hace falta instalar las dependencias desde la consola de comandos en el directorio frontend de la forma  "npm install"
+- Para correr el proyecto se debe abrir una terminal y escribir "npm run dev".
+- Una vez corriendo el servidor frontend abriremos en nuestro navegador de preferencia la ruta http://127.0.0.1:5173 donde podremos visualizar el proyecto
